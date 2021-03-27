@@ -3,6 +3,8 @@
 ## About
 This is an simple castle ruin 3D model.
 
+*![Screenshot](castle.png)*
+
 ## Requirements
  * [Blender](https://www.blender.org) 2.92.0 or higher
 
