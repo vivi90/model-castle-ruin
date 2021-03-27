@@ -1,0 +1,9 @@
+# Temporary files
+*~
+/.[tT][mM][pP]
+
+# Windows folder config file
+[dD][eE][sS][kK][tT][oO][pP].[iI][nN][iI]
+
+# Blender
+*.[bB][lL][eE][nN][dD][0-9]*
