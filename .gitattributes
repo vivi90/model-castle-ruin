@@ -1,0 +1,8 @@
+# Macro for all binary files that should use Git LFS.
+[attr]bin -text filter=lfs diff=lfs merge=lfs lockable
+
+# Blender
+*.[bB][lL][eE][nN][dD] bin
+
+# Images
+*.[pP][nN][gG] bin
