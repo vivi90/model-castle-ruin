@@ -19,6 +19,15 @@ This is an simple castle ruin 3D model.
  git config credential.helper cache
  ```
 
+## Used textures
+ * Floor: [Paving Stones 065](https://cc0.link/a/PavingStones065)
+ * Ground: [Tiles 088](https://cc0.link/a/Tiles088)
+ * Walls: [Paving Stones 025](https://cc0.link/a/PavingStones025)
+ * Pavement: [Paving Stones 033](https://cc0.link/a/PavingStones033)
+ * Windows, Archways and Pillars: [Bricks 008](https://cc0.link/a/Bricks008)
+ * Stucco: [Concrete 019](https://cc0.link/a/Concrete019)
+ * Stairs, Porch, Bevel, Platform and Throne: [Rock 024](https://cc0.link/a/Rock024)
+
 ## License
 This project is free software under the terms of the CC BY 4.0 license.
 For more details please see the LICENSE file or [Creative Commons](http://creativecommons.org/licenses/by/4.0).
