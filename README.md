@@ -19,6 +19,27 @@ This is an simple castle ruin 3D model.
  git config credential.helper cache
  ```
 
+## Renderings
+### Day scene
+ *![Rendered day image](renderings/day.png)*
+ * Atmosphere Shader
+    * Fog Intensity: 0.5
+    * Mix Fac: 0
+ * World Shader
+    * Mix Fac: 0
+ * Scene Color Management
+    * Gamma: 1
+
+## Scary night scene
+ *![Rendered scary night image](renderings/scary_night.png)*
+ * Atmosphere Shader
+    * Fog Intensity: 0.7
+    * Mix Fac: 1
+ * World Shader
+    * Mix Fac: 1
+ * Scene Color Management
+    * Gamma: 0.5
+
 ## Used textures
  * Floor: [Paving Stones 065](https://cc0.link/a/PavingStones065)
  * Ground: [Tiles 088](https://cc0.link/a/Tiles088)
